@@ -1,0 +1,9 @@
+*.bak
+*.bk?
+*.tmp
+*.$$$
+*.log
+*.err
+*.fas
+*.vlx
+_in_/
